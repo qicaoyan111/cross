@@ -1,0 +1,156 @@
+﻿$axure.loadCurrentPage({
+  "url":"help.html",
+  "generationDate":new Date(1386580812013.54),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"346f47075b954c689efcc3acf3d852d6",
+    "type":"Axure:Page",
+    "name":"help",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5a32489d2d0c4e29bc4850e7bfc04e85",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":640,
+              "height":1136}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"079ba6a9a200498f9456037d3cc6ea8d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":640,
+                  "height":1136}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u0.png"}},
+{
+          "id":"c1c00e21712b4f9cbf016103d952696d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"35px",
+            "location":{
+              "x":0,
+              "y":1},
+            "size":{
+              "width":640,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc3afc980e67444c8da69cdae17cb48d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"35px",
+                "location":{
+                  "x":0,
+                  "y":1},
+                "size":{
+                  "width":640,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/page_1/u2.png"}},
+{
+          "id":"69391f79db8845fe84a51705be91b998",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":22,
+              "y":26},
+            "size":{
+              "width":50,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c251b541c8e4306ad49e728fb604dc6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":22,
+                  "y":26},
+                "size":{
+                  "width":50,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open Home in Current Window",
+                      "target":{
+                        "targetType":"page",
+                        "url":"home.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/page_1/u4.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5a32489d2d0c4e29bc4850e7bfc04e85":{
+      "scriptId":"u0"},
+    "079ba6a9a200498f9456037d3cc6ea8d":{
+      "scriptId":"u1"},
+    "c1c00e21712b4f9cbf016103d952696d":{
+      "scriptId":"u2"},
+    "dc3afc980e67444c8da69cdae17cb48d":{
+      "scriptId":"u3"},
+    "69391f79db8845fe84a51705be91b998":{
+      "scriptId":"u4"},
+    "0c251b541c8e4306ad49e728fb604dc6":{
+      "scriptId":"u5"}}});
